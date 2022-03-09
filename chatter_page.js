@@ -65,5 +65,5 @@ function logout(){
 
       localStorage.removeItem("user_name");
       localStorage.removeItem("room_name");
-      window.location = "chatter_login.html";
+      window.location = "index.html";
 }
